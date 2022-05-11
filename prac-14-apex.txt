@@ -1,0 +1,7 @@
+<apex:page showheader="false" sidebar="false">
+<apex:form>
+<h1>
+    Hello World
+    </h1>    
+</apex:form>
+</apex:page>
